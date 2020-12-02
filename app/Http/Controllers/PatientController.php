@@ -146,7 +146,7 @@ public function updatePatient(){
         else
           $ecg_st_msec = 0;
 
-        if(isset($_POST['heartrate_upper_bpm'])&&$_POST['ecg_st_msec']!='')
+        if(isset($_POST['heartrate_upper_bpm'])&&$_POST['heartrate_upper_bpm']!='')
           $heartrate_upper_bpm = $_POST['heartrate_upper_bpm'];
         else
           $heartrate_upper_bpm = 0;
