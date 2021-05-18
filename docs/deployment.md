@@ -1,0 +1,12 @@
+APP_NAME=Laravel
+APP_ENV=local
+APP_KEY=base64:zY4l/zSS2r0RuaSX5jjdx4n3QXzbGLSPlzhxLNszUX4=
+APP_DEBUG=true
+APP_URL=http://localhost
+LOG_CHANNEL=stack
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=up-pgh
+DB_USERNAME=ward
+DB_PASSWORD=
